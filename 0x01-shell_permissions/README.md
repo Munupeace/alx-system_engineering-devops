@@ -1,0 +1,1 @@
+shell permisssions read me
